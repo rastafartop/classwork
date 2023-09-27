@@ -1,0 +1,23 @@
+/* Стили для шапки сайта */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 214px; /* Отступ от логотипа в 214 пикселей */
+    background-color: white /* Цвет фона шапки */
+    color #000; /* Цвет текста */
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navigation {
+    display: flex;
+}
+
+.menu-item {
+    margin-right: 20px; /* Отступ между элементами меню */
+    cursor: pointer;
+}

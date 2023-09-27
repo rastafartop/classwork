@@ -1,0 +1,45 @@
+.inline-words{
+    display: inline-block;
+}
+.inline-words span{
+    margin-right: 100px;
+}
+header{
+    background-color: white;
+    padding: 20px;
+
+}
+header img{
+    height: auto;
+}
+.computer{
+    width: 200px;
+}
+.inline-words{
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 2px;
+text-align: center;
+
+}
+.computer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-right: 56px;
+}
+.img-container{
+    text-align: center;
+    margin-right: 56px;
+    margin-left: 57px;
+    margin-top: 188px;
+}
+

@@ -1,0 +1,103 @@
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.inline-words{
+    font-family: Roboto;
+    padding: 0%;
+    margin-left: 214px; 
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 2px;
+    list-style: none;
+    display: flex;
+ justify-content: space-around;
+    width: 530px;
+
+
+}
+.inline-words span{
+    margin-right: 100px;
+}
+header{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+
+}
+header img{
+    height: auto;
+}
+.computer{
+    width: 200px;
+}
+.computer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.img-container{
+    margin: 0 56px;
+    background: url("./111111\ 1.jpg");
+    background-size: cover;
+    width: 92vw;
+    height: 746px;
+}
+.geo-img {
+    margin-right: 10px;
+}
+.icons-container {
+    margin-left: 214px;
+    display: flex;
+    align-items: center;
+}
+.basket {
+    margin-left: 50px;
+    height: 25px;
+    width: auto;
+}
+.ovodov{
+    font-family: Roboto;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    padding:0%;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 2px;
+    list-style: none;
+    text-decoration: none ;
+}
+.large-image{
+    padding-bottom: 90px;
+}
+.ben-10{
+    margin-left: 25px;
+    align-items: center;
+}
+#header-image{
+    position: absolute;
+
+}
+.ben-20{
+    padding-top: 10PX;
+}
+.header-line{
+    height: 1px;
+    background-color: #000;
+    opacity: 0.3;
+}
